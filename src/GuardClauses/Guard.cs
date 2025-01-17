@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
 using System.Text.RegularExpressions;
@@ -56,7 +57,7 @@ public static class Guard
         int value,
         [CallerArgumentExpression("value")] string? parameterName = null)
     {
-        if (value < 0) 
+        if (value < 0)
             throw new ArgumentException("Value cannot be negative.", parameterName);
 
         return value;
@@ -66,7 +67,7 @@ public static class Guard
         int value,
         [CallerArgumentExpression("value")] string? parameterName = null)
     {
-        if (value <= 0) 
+        if (value <= 0)
             throw new ArgumentException("Value must be positive (greater than zero).", parameterName);
 
         return value;
