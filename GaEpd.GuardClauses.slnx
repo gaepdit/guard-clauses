@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/GuardClauses/GuardClauses.csproj" />
+  <Project Path="tests/GuardClauses.Tests/GuardClauses.Tests.csproj" />
+</Solution>
