@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.1] - 2026-04-15
+
+- Update NuGet packages.
+
 ## [2.2.0] - 2026-01-06
 
 - Added support for .NET 10.
@@ -20,3 +24,4 @@ _Initial release._
 [2.0.0]: https://github.com/gaepdit/guard-clauses/releases/tag/v2.0.0
 [2.1.0]: https://github.com/gaepdit/guard-clauses/releases/tag/v2.1.0
 [2.2.0]: https://github.com/gaepdit/guard-clauses/releases/tag/v2.2.0
+[2.2.1]: https://github.com/gaepdit/guard-clauses/releases/tag/v2.2.1
