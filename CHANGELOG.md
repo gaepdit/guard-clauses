@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.3] - 2026-10-14
+
+- Update dependencies.
+
 ## [2.2.2] - 2026-07-21
 
 - Update NuGet packages.
@@ -30,3 +34,4 @@ _Initial release._
 [2.2.0]: https://github.com/gaepdit/guard-clauses/releases/tag/v2.2.0
 [2.2.1]: https://github.com/gaepdit/guard-clauses/releases/tag/v2.2.1
 [2.2.2]: https://github.com/gaepdit/guard-clauses/releases/tag/v2.2.2
+[2.2.3]: https://github.com/gaepdit/guard-clauses/releases/tag/v2.2.3
